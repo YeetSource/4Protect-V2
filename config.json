@@ -1,19 +1,18 @@
 {
   "token": "",
   "owners": [
-    "1251209545129132110",
+    "951541504235671552",
     ""
   ],
-  "prefix": ".",
-  "color": "#6495ed",
+  "prefix": "+",
+  "color": "#26262E",
 
   "titre": "Support",
-  "description": "Pour contacter le staff, veuillez sélectionner une raison",
-  "tfooter": "Support",
-  "option1": "Problème bot",
+  "description": "Pour contacter notre effecitf, veuillez sélectionner une raison",
+  "tfooter": "Question",
+  "option1": "Recrutement",
   "option2": "Suggestion",
   "option3": "Autre",
-  "option4": "",
 
   "ctitre": "​🚧​ Captcha",
   "cdescription": "Clique sur le bouton ci-dessous pour te vérifier",
